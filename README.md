@@ -21,3 +21,7 @@ You will also see any lint errors in the console.
 This React exercise gives you some practice working with props, defaultProps, state, and simple click events in React.
 
 - The user should be able to click on a button to flip a coin. Every time the user clicks, the coin gets flipped again. The app should also keep track of how many times heads and tails have shown up.
+
+## Preview of app in action
+
+![coin-flip](screenshots/coinFlip.gif)
